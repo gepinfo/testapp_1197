@@ -445,7 +445,7 @@ export const resource_types = [
     ]
   },
   {
-    "resource_name": "test",
+    "resource_name": "test2",
     "resource_type": "screen",
     "roles": [
       "admin", "user"
@@ -470,7 +470,7 @@ export const resource_types = [
     }]
   },
   {
-    "resource_name": "test2",
+    "resource_name": "test",
     "resource_type": "screen",
     "roles": [
       "admin", "user"

@@ -6,8 +6,8 @@
     ,
 {"resources":"sefscreen", "role":"Guest"}
     ,
-{"resources":"test", "role":"Guest"}
-    ,
 {"resources":"test2", "role":"Guest"}
+    ,
+{"resources":"test", "role":"Guest"}
     
 ]
